@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @S0yf00d-exe
-- 👀 I’m interested in Privacy & Security Projects.
-- 🌱 I’m currently learning Linux...
+- 👋 Hi, I’m @S0yf00d-exe 😎
+
+- 👀 I’m interested in 👁️ Privacy & Security 🔒 Projects.
+
+- I’m currently learning Linux 🐧 💻, and Gardening 🌱 🪴 ATM.
 
 <!---
 S0yf00d-exe/S0yf00d-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
