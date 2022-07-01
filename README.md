@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0yf00d-exe 😎
 
-- 👀 I’m interested in 👁️ Privacy & Security 🔒 Projects.
+- I’m interested in 👁️ Privacy & Security 🔒 Projects.
 
 - I’m currently learning Linux 🐧 💻, and Gardening 🌱 🪴 ATM.
 
